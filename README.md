@@ -1,1 +1,1 @@
-# Zoom-for-MachineLearning-in-Networks
+# Zoom for Machine Learning in Networks
